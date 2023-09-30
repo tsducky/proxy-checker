@@ -4,6 +4,7 @@
 
 ## Using
 
+- <span style="background-color:  #60615f">git clone https://github.com/tsducky/proxy-checker.git</span>
 - You need to fill proxies.txt list
 - You need to download requirements by <span style="background-color:  #60615f">pip install -r requirements.txt</span>
 
